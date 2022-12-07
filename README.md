@@ -1,2 +1,2 @@
-# Curso_Java_Basico
+# Projetos_Java_Exercitando
 Prática
